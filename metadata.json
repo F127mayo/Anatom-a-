@@ -1,0 +1,6 @@
+{
+  "name": "Anatomía con Puntos",
+  "description": "Memoriza las partes del cuerpo mediante una silueta interactiva, esquemas óseos, órganos de referencia, cuestionarios interactivos y la ayuda de un tutor anatómico impulsado por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
